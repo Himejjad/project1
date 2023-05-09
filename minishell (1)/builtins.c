@@ -5,12 +5,12 @@
 /*                                                    +:+ +:+         +:+     */
 /*   By: himejjad <himejjad@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/03/27 20:35:10 by ybouali           #+#    #+#             */
+/*   Created: 2023/04/27 20:35:10 by himejjad           #+#    #+#             */
 /*   Updated: 2023/05/09 01:27:02 by himejjad         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../../includes/minishell.h"
+#include "minishell.h"
 
 
 typedef struct s_lexer
